@@ -1,0 +1,20 @@
+
+body {
+background-color: #000000;
+  background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */;
+
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  background-color: white;
+  background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
+
+}
